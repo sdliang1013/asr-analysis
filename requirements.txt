@@ -1,0 +1,4 @@
+--extra-index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+chattts==0.1.1
+ipython==8.26.0
